@@ -2,6 +2,7 @@
 🔰 DEADLOX VIP INJECTOR 🔰
 __________________________________
 Features:
+
 • Auto Headshot- Automatically detects the enemy and headshot the enemy. :smirk:
 
 • AimBot- Automatically aims at the enemy. :stuck_out_tongue_winking_eye:
