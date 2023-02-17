@@ -13,6 +13,4 @@ Features:
 • Aim Kill- Automatically detects the enemy and shoots at him. :smiling_imp:
 
 __________________________________
-🔰 Contact us to Buy 🔰:
-
-https://cutt.ly/U3J50zh
+🔰 Contact us to Buy 🔰: https://cutt.ly/U3J50zh
