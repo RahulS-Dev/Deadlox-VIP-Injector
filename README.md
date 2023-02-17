@@ -1,4 +1,3 @@
-#🔰 DEADLOX VIP INJECTOR 🔰
 🔰 DEADLOX VIP INJECTOR 🔰
 __________________________________
 Features:
